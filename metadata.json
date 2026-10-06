@@ -1,0 +1,8 @@
+{
+  "name": "Engineering Client Requirement Analyser",
+  "description": "AI-powered requirement analysis assistant for electrical, electronics, and mechanical engineering freelancers and consultants.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
